@@ -1,0 +1,25 @@
+What string would you like to evolve?
+How many individuals would you like to evolve?
+Iteration number 1 with best individual {'genome': 'ENATZnkLEhqWpOrXtHFOprCeTspr', 'fitness': 4}
+Iteration number 4 with best individual {'genome': 'YIxHGrkq KZsVxJkUHw prCeTspr', 'fitness': 5}
+Iteration number 5 with best individual {'genome': 'JIhHGrkq OZSuWYlTvF prCeTsVs', 'fitness': 6}
+Iteration number 8 with best individual {'genome': 'SavXiOky K siCyVxkCFaKwzioxj', 'fitness': 7}
+Iteration number 12 with best individual {'genome': ' uObHAksfyXoijtlTHF pZwersVg', 'fitness': 8}
+Iteration number 14 with best individual {'genome': 'MxVvZnksfyXoiqtlTHF pZweWsVg', 'fitness': 10}
+Iteration number 19 with best individual {'genome': 'MaWvZnkZSjTlim lQve aowMNsSt', 'fitness': 11}
+Iteration number 23 with best individual {'genome': 'MeuNGrkW OtmiPilxle aowMNsVR', 'fitness': 12}
+Iteration number 29 with best individual {'genome': 'MvtGanka iZUYrYluHe aowMasHr', 'fitness': 13}
+Iteration number 33 with best individual {'genome': 'MetJGBky lfSim lrbe aECeasWU', 'fitness': 14}
+Iteration number 36 with best individual {'genome': 'MXtvZnksmkWliV lQle aaweasAD', 'fitness': 15}
+Iteration number 40 with best individual {'genome': 'M tvZnks MtFis lAve aoneasFW', 'fitness': 17}
+Iteration number 42 with best individual {'genome': 'MDtvZnks MtFis lAke XaweasAk', 'fitness': 18}
+Iteration number 47 with best individual {'genome': 'MetvZnks Mtmis lQve aoweaswD', 'fitness': 19}
+Iteration number 50 with best individual {'genome': 'Meahinks FUlis lAke aKweaswD', 'fitness': 20}
+Iteration number 53 with best individual {'genome': 'Methinks Mteis lAde aoweaswD', 'fitness': 21}
+Iteration number 56 with best individual {'genome': 'Methings it is lQbe aoweaswD', 'fitness': 22}
+Iteration number 59 with best individual {'genome': 'Methings it is lgke aKweaswk', 'fitness': 23}
+Iteration number 69 with best individual {'genome': 'Methinks it is lQke aoweasAD', 'fitness': 24}
+Iteration number 72 with best individual {'genome': 'Methinks it is lAke aoweaseD', 'fitness': 25}
+Iteration number 78 with best individual {'genome': 'Methinks it is like aKweaseg', 'fitness': 26}
+Iteration number 88 with best individual {'genome': 'Methinks it is like a weaseD', 'fitness': 27}
+Iteration number 104 with best individual {'genome': 'Methinks it is like a weasel', 'fitness': 28}

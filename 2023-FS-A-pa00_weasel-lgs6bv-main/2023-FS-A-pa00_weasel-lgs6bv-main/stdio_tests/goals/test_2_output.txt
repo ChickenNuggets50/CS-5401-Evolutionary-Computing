@@ -1,0 +1,28 @@
+What string would you like to evolve?
+How many individuals would you like to evolve?
+Iteration number 1 with best individual {'genome': 'YIxHGrkqVBBxMxtlnrXFmoijesYg', 'fitness': 3}
+Iteration number 2 with best individual {'genome': 'pkAfinzdkyayqYYlZieTmDcsAcYm', 'fitness': 4}
+Iteration number 4 with best individual {'genome': 'pkAfinzdsIKWaMuFbhnZtMdp f n', 'fitness': 5}
+Iteration number 7 with best individual {'genome': 'YIUHinzdGIuiaMuvbhOZSCSY f n', 'fitness': 6}
+Iteration number 8 with best individual {'genome': 'MIgHMtkq sgsIYYrkDfsbQOy f n', 'fitness': 7}
+Iteration number 13 with best individual {'genome': 'PeSWGOkI vRZLYMrkThmmMnz f n', 'fitness': 8}
+Iteration number 14 with best individual {'genome': 'SefPGwkq YLwsVbtPvHumyisFf n', 'fitness': 9}
+Iteration number 17 with best individual {'genome': 'SeLPinzgwIIiCMvrirtFmoij ftn', 'fitness': 10}
+Iteration number 20 with best individual {'genome': 'MetHinzTHICiRxtriKxFmzij TIn', 'fitness': 11}
+Iteration number 23 with best individual {'genome': 'MeaJinbTHtbiR ErnlNImKijdfIn', 'fitness': 12}
+Iteration number 26 with best individual {'genome': 'MetxinkA FAMD hrnrXhLoij fVn', 'fitness': 13}
+Iteration number 29 with best individual {'genome': 'MetlinzTEUuiRxtriYjFm is fKn', 'fitness': 14}
+Iteration number 30 with best individual {'genome': 'MethinkA Fuix KrnFEtmKiY IKn', 'fitness': 15}
+Iteration number 33 with best individual {'genome': 'MethinkA Fuix KrnFEtmKiY f n', 'fitness': 16}
+Iteration number 39 with best individual {'genome': 'EetiinkS tbGs srdlNFm is fYn', 'fitness': 17}
+Iteration number 42 with best individual {'genome': 'MeUhinkp tbisdsriBjFm is fYn', 'fitness': 18}
+Iteration number 46 with best individual {'genome': 'MethinkS tbie trwYjgm is fYn', 'fitness': 19}
+Iteration number 49 with best individual {'genome': 'MethinkC tbis srwYjgm is fYn', 'fitness': 20}
+Iteration number 54 with best individual {'genome': 'MethinkS tbis srXlrtm is f n', 'fitness': 21}
+Iteration number 62 with best individual {'genome': 'MethinkC tbis srolrtm is fYn', 'fitness': 22}
+Iteration number 72 with best individual {'genome': 'MethinkC tbis srolrtm is fun', 'fitness': 23}
+Iteration number 78 with best individual {'genome': 'MethinkA this srolrtm is fun', 'fitness': 24}
+Iteration number 100 with best individual {'genome': 'MethinkC this kroLram is fun', 'fitness': 25}
+Iteration number 109 with best individual {'genome': 'MethinkS this proLram is fun', 'fitness': 26}
+Iteration number 116 with best individual {'genome': 'MethinkS this program is fun', 'fitness': 27}
+Iteration number 147 with best individual {'genome': 'Methinks this program is fun', 'fitness': 28}
